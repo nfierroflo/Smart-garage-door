@@ -1,0 +1,2 @@
+
+The application facilitates the monitoring of an ESP-32 device, which transmits data captured by a magnetic sensor. This sensor is typically deployed to monitor the state of a garage door. Through the app, users can access real-time updates regarding the status of the garage door, enabling them to conveniently ascertain whether it is open or closed. This functionality provides users with enhanced convenience and security, allowing them to remotely monitor their garage door status and take necessary action as required.
